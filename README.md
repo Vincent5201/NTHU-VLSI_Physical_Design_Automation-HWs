@@ -4,7 +4,10 @@
 ## HW2: Min-cut Partitioning
 * 2-way and 4-way partition
 * multi-level FM
-* performence score: 27/30 (Much better than average, a little behind the best.)
+* outperform in class
 
-In processing...
+## HW3: detail placement
+* do detail placement on a valid global placement
+* simplified the algorithm of ”An Efficient and Effective Detailed Placement Algorithm"
+* perfomance is worce
 
