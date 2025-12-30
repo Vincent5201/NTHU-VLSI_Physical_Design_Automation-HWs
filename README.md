@@ -7,10 +7,11 @@
 * outperform in class
 
 ## HW3: Detail Placement
-* do detail placement on a valid global placement
+* detail placement on a valid global placement
 * simplified the algorithm of ”An Efficient and Effective Detailed Placement Algorithm"
 * perfomance is worce
 
 ## HW4: Global Routing
+* routing on 2-pin nets
 * simple rid-up and reroute using A*-search routing
 * performance good on public test but worse on private
